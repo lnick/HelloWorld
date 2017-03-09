@@ -19,7 +19,7 @@
                 <configuration>
                     <email>dev_user@example.com</email>
                     <password>passw0rd</password>
-                    <context>ROOT</context>
+                    <context>TEST1</context>
                     <environment>${ENV_NAME}</environment>
                     <comment>test-plugin</comment>
                     <api_hoster>app.cloud_domain</api_hoster>
